@@ -10,3 +10,6 @@ http://autopilot.myowntv.org/content/33816/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="ROCK TV",HEAVY METAL TELEVISION
 http://72.211.19.145:1935/hmtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="   " group-title="RADIO ROCK", RADIO ROCK CLASSIC
+http://player.streamlicensing.com/2953?l&stream_id=5074
