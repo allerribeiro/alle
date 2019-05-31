@@ -7,7 +7,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w5066472
 #EXTINF:-1 tvg-id="XXX" tvg-logo=" XXX " group-title="ROCK TV",METAL TV
 http://autopilot.myowntv.org/content/33816/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i484.photobucket.com/albums/rr210/Stampkase/SoundZone%20Online%20Magazine%20III/SoundZone%20Online%20Magazine%20IV/heavymetaltelevision_zps50bfbde4.jpg" group-title="ROCK TV",HEAVY METAL TELEVISION
+#EXTINF:-1 tvg-id="" tvg-logo="https://secure.static.tumblr.com/faf012adceeea902987df1e940d062ad/e1vtkly/yuhn1d9n4/tumblr_static_heavymetaltelevision_header.jpg" group-title="ROCK TV",HEAVY METAL TELEVISION
 http://72.211.19.145:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="RADIO ROCK", RADIO CLASSIC ROCK
