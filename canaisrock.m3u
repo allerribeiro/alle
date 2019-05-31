@@ -16,5 +16,5 @@ http://209.222.19.108:10042/stream
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="RADIO ROCK", RADIO SUPER ROCK HITS
 http://stm18.srvstm.com:18464/stream/1/;713844005126988stream.nsv
 
-#EXTINF:-1 tvg-id="" tvg-logo="   " group-title="RADIO ROCK", ROCK FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://img5.androidappsapk.co/300/7/c/3/rockfm.ro.png" group-title="RADIO ROCK", ROCK FM
 http://live.kissfm.ro:9128/rockfm.aacp
