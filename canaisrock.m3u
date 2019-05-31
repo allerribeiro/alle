@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:0,ROCK TV
 
 #EXTINF:-1 tvg-id="xxx" tvg-logo=" xxx  " group-title="ROCK TV",RETRO MUSIC TELEVISION
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
